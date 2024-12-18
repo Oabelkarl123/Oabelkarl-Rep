@@ -1,0 +1,38 @@
+ARITHMETIC OPERATORS 
+
+
+(+ ,) - Addition / Concatination(String Combination) 
+- - Subtraction 
+*() - Multiplication 
+/ - Division 
+% - Modulus
+** - Exponentiation 
+// - Floor Division 
+
+VARIABLES -- placeholder of Information / Data. 
+
+x  +  y = 15 
+
+
+
+Byproduct of Programming is a Software Application , Software application capable of processing information. 
+
+DATA TYPES  - Describes what type of information is being processed. 
+
+Primitive Data types ( Beginner Data types)
+
+Integer Data Type - Otherwise known as INT, Integer data types are numeric data types, more specially whole number Data Types. 
+                    (e.g Age, No. of Students, LRN Number) 
+
+Float Data Type - Numeric Data expressed with Decimal Points. (e.g Prices, Grades, Temperatures ) , Precision values. 
+
+Strings - These are alpha numeric Values ( e.g. Name, Address, email, birthday Month, school, section ) , string values are expressed using 
+           a pair double quotation ("") or a pair of single quotation (' ')
+
+Boolean - Data Types expressed in either TRUE OR FALSE. 
+
+VARIABLE NAMING CONVENTIONS / PROTOCOL / PRACTICE 
+
+variable names cannot start with a number 
+variables name cannot have spaces 
+variables names should avoid using special characters / symbol 

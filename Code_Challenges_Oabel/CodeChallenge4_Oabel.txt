@@ -1,0 +1,18 @@
+number1 = eval(input("enter a number--> "))
+
+number2 = eval(input("enter a number--> "))
+
+answer = number1 + number2
+difference = number1 - number2
+product = number1 * number2
+quotient = number1 / number2
+
+
+
+print("the sum of " , number1 , " + " , number2 , " is " , answer)
+print("the difference of " , number1 , " - " , number2 , " is " , difference)
+print("the product of " , number1 , " * " , number2 , " is " , product)
+print("the quotient of " , number1 , " / " , number2 , " is " , quotient)
+print(number1,  "exponent by " ,number2, "is" ,number1**number2)
+print("The remainder of " ,number1, "and " ,number2, "is" ,number1 % number2)
+print("The floor division of " ,number1, "and" ,number2 , "is" ,number1//number2)
